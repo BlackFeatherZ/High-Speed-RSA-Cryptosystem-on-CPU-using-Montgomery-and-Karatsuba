@@ -1,0 +1,36 @@
+﻿  bignum.c
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(150,31): warning C4244: “=”: 从“dbn_t”转换到“bn_t”，可能丢失数据
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(368,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(385,25): warning C4047: “函数”:“bn_t”与“bn_t *”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(385,24): warning C4024: “length”: 形参和实参 1 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(386,25): warning C4047: “函数”:“bn_t”与“bn_t *”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(386,24): warning C4024: “length”: 形参和实参 1 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(403,13): warning C4047: “函数”:“bn_t *”与“uint32_t”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(403,12): warning C4024: “bn_div”: 形参和实参 1 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(403,23): warning C4047: “函数”:“bn_t *”与“uint32_t”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(403,18): warning C4024: “bn_div”: 形参和实参 3 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(403,38): warning C4047: “函数”:“bn_t *”与“uint32_t”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(403,34): warning C4024: “bn_div”: 形参和实参 5 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(405,13): warning C4047: “函数”:“bn_t *”与“uint32_t”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(405,12): warning C4024: “bn_div”: 形参和实参 1 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(405,23): warning C4047: “函数”:“bn_t *”与“uint32_t”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(405,18): warning C4024: “bn_div”: 形参和实参 3 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(405,38): warning C4047: “函数”:“bn_t *”与“uint32_t”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(405,34): warning C4024: “bn_div”: 形参和实参 5 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(409,47): warning C4047: “=”:“bn_t *”与“uint32_t”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(404,1): warning C4047: “初始化”:“uint32_t”与“bn_t *”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(406,1): warning C4047: “初始化”:“uint32_t”与“bn_t *”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\bignum.c(423,14): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  main.c
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\main.c(65,43): warning C4047: “函数”:“uint8_t *”与“uint8_t (*)[256]”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\main.c(65,24): warning C4024: “print_array”: 形参和实参 2 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\main.c(66,43): warning C4047: “函数”:“uint8_t *”与“uint8_t (*)[256]”的间接级别不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\main.c(66,24): warning C4024: “print_array”: 形参和实参 2 的类型不同
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\main.c(72,36): warning C4013: “rsa_public_encrypt_any_len”未定义；假设外部返回 int
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\main.c(81,37): warning C4013: “rsa_private_decrypt_any_len”未定义；假设外部返回 int
+  rsa.c
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\rsa.c(22,15): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\rsa.c(43,15): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\Desktop\原程序\Project1\Project1\rsa.c(68,11): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\lenovo\Desktop\原程序\Project1\Debug\Project1.exe
